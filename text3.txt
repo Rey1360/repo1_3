@@ -4,3 +4,4 @@ update_3 on local repo on br1
 update_4 on local repo on master
 update_ on local repo on br4
 update_6 on remote on master
+update_7 on remote on master
